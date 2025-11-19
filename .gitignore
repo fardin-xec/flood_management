@@ -12,10 +12,8 @@ yarn-error.log*
 lerna-debug.log*
 storage
 .env
-.exe
-
-# OS
-.DS_Store
+*.exe
+# 
 
 # Tests
 /coverage
